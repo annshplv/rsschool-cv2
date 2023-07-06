@@ -1,3 +1,8 @@
 # Shipilova Anna
-## junior frontrnd developer
+## junior frontend developer
+
+** My skills: **
+* HTML, CSS, JS
+* Figma, photoshop
+* Git, GitHub
 
